@@ -1,6 +1,6 @@
 CREATE TABLE Alunos (
-    ID int,
-    Nome varchar(255),
+    AlunosID int,
+    PrimeiroNome varchar(255),
     Sobrenome varchar(255),
     Idade varchar(255)
 );
