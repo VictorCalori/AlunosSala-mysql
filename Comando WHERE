@@ -1,0 +1,1 @@
+SELECT * FROM `Alunos` WHERE AlunosID = "1" 
