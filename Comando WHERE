@@ -1,3 +1,5 @@
 SELECT * FROM `Alunos` WHERE AlunosID = "1" 
 
 SELECT * FROM `Alunos` WHERE Sobrenome = "dos Santos" 
+
+SELECT * FROM `Alunos` WHERE Idade < 17
